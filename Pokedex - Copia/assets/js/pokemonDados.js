@@ -1,0 +1,2 @@
+var imagem = pokemon.image
+
